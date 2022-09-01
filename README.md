@@ -1,8 +1,10 @@
 # Mechatronics-Fundamentals
-This repository contains all of my Arduino projects from our Mechatronics Fundamentals course.
+This repository contains all of my Arduino projects from our Mechatronics Fundamentals course. 
+
+Even if these projects were not perfect, they could serve as a guide for those developing Arduino projects.
 
 
-## 🔎 Laboratory 01v- Spaceship Interface II
+## 🔎 Laboratory 01  Spaceship Interface II
 This assignment assumes the completion of Projects 01 - 02 in the Arduino Projects book. 
 Its purpose is to reinforce the concepts and language constructs discussed in those chapters.
 
