@@ -2,7 +2,7 @@
 This repository contains all of my Arduino projects from our Mechatronics Fundamentals course. 
 
 
-## 🔎 Laboratory 01  Spaceship Interface II
+## 🔎 Laboratory 01 - Spaceship Interface II
 This assignment assumes the completion of Projects 01 - 02 in the Arduino Projects book. 
 Its purpose is to reinforce the concepts and language constructs discussed in those chapters.
 
@@ -36,7 +36,7 @@ Parts used:
   - jumper wires 
   
   
-## 🔎 Laboratory 03-Coutigiiary
+## 🔎 Laboratory 03 - Counting in Binary
 This project is a counter that counts from 0 to 15 and displays the results in BINARY code.
 Each LED glows to indicate the place value, and the equivalent number in decimal can be found 
 by adding all of the individual digits of the glowing LEDs.
