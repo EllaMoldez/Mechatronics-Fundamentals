@@ -62,4 +62,28 @@ Parts required:
   - jumper wires 
   
 
-## 🔎 Laboratory 04
+## 🔎 Laboratory 04 - Counting in Binary II
+This assignment assumes the completion of Projects 01 - 05 in the Arduino Projects book. 
+
+This project is quite similar to Lab 03, which involved manipulating the binary count rate with a potentiometer; 
+A counter from 0 to 15 displays the results in BINARY code. Each LED glows to indicate the place value, 
+and the equivalent decimal number can be found by adding all of the glowing LEDs' digits.
+
+To determine the values, we also consider the following components:
+ RGB LED - to indicate the hexamedical or "16s"
+ potentiometer - it controls the increment value
+ 
+Using the serial monitor, we can obtain the information on increment value, counter16 and counter01 and understand 
+what is going on in your circuit and code as it runs.
+
+
+Parts required:
+  - Arduino UNO
+  - solderless breadboard half size
+  - four red LEDs
+  - one RGB LED
+  - 4four220 ohm resistors
+  - one Potentiometer
+  - one capacitor
+  - jumper wires 
+
