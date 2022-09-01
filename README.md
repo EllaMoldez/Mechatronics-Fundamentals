@@ -82,7 +82,7 @@ Parts required:
   - solderless breadboard half size
   - four red LEDs
   - one RGB LED
-  - 4four220 ohm resistors
+  - four 220 ohm resistors
   - one Potentiometer
   - one capacitor
   - jumper wires 
