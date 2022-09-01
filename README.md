@@ -1,8 +1,8 @@
 # Mechatronics-Fundamentals
-This repository contains all of my Arduino projects from our Mechatronics Fundamentals course.
+This repository contains all of my Arduino projects from our Mechatronics Fundamentals course. 
 
 
-## 🔎 Laboratory 01v- Spaceship Interface II
+## 🔎 Laboratory 01 - Spaceship Interface II
 This assignment assumes the completion of Projects 01 - 02 in the Arduino Projects book. 
 Its purpose is to reinforce the concepts and language constructs discussed in those chapters.
 
@@ -36,6 +36,30 @@ Parts used:
   - jumper wires 
   
   
-## 🔎 Laboratory 03
+## 🔎 Laboratory 03 - Counting in Binary
+This project is a counter that counts from 0 to 15 and displays the results in BINARY code.
+Each LED glows to indicate the place value, and the equivalent number in decimal can be found 
+by adding all of the individual digits of the glowing LEDs.
+
+To determine the values, we also consider the following components:
+ RGB LED - to indicate the hexamedical or "16s"
+ temperature sensor - to determine the room temperature and it affects the increment value for the counter01 (binary).
+ switch/button - when pressed, on-board LED is turn on and overrides the increment value to 0
+ 
+Using the serial monitor, we can obtain the information on temperature, increment value, binary and hexadecimal(16s) and understand 
+what is going on in your circuit and code as it runs.
+
+
+Parts required:
+  - Arduino UNO
+  - solderless breadboard half size
+  - four red LEDs
+  - one RGB LED
+  - one 10 kilohm resistor
+  - seven 220 ohm resistors
+  - one TMP36 temperature sensor
+  - one pushbutton
+  - jumper wires 
+  
 
 ## 🔎 Laboratory 04
